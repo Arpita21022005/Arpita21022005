@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Arpita21022005/Arpita21022005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HabitStreaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Habit Tracker
 A mobile-responsive habit tracking application with streak counting and reminder notifications.
